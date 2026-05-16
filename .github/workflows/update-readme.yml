@@ -15,15 +15,20 @@ jobs:
 
       - name: Update recent commits section
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: |
+          set -x
           gh api -X GET "search/commits?q=author:natekettles&sort=author-date&order=desc&per_page=10" --jq '
             .items[]
             | "- [`\(.sha[0:7])`](\(.html_url)) \(.commit.message | split("\n")[0]) — [\(.repository.full_name)](https://github.com/\(.repository.full_name))"
-          ' > commits.md.tmp 2>/dev/null || true
+          ' > commits.md.tmp
+
+          echo "--- commits.md.tmp ---"
+          cat commits.md.tmp
+          echo "--- end ---"
 
           if [ ! -s commits.md.tmp ]; then
-            echo "_No recent public push events yet — this fills in after your next push._" > commits.md.tmp
+            echo "_No recent public commits yet._" > commits.md.tmp
           fi
 
           awk '
