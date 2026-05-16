@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+![Metrics](./github-metrics.svg)
+
+### Recommended star list
+
+![Star list](./metrics.plugin.starlists.svg)
+
+### Recent activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/kunchenguid/lavish-axi/issues/37#issuecomment-4463676045) in [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi)
 2. ❗ Opened issue [#37](https://github.com/kunchenguid/lavish-axi/issues/37) in [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi)
