@@ -7,9 +7,13 @@
 
 ![Metrics](./github-metrics.svg)
 
+---
+
 ## ⭐︎ Recommended star list
 
 ![Star list](./metrics.plugin.starlists.svg)
+
+---
 
 ## 🔥 Recent activity
 
