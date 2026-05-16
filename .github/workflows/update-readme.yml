@@ -17,23 +17,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh api "users/natekettles/events/public?per_page=100" --paginate --jq '
-            [.[]
-              | select(.type=="PushEvent")
-              | . as $e
-              | .payload.commits[]
-              | select(.distinct)
-              | {
-                  sha: .sha,
-                  short: .sha[0:7],
-                  msg: (.message | split("\n")[0]),
-                  repo: $e.repo.name
-                }
-            ]
-            | unique_by(.sha)
-            | .[0:10]
-            | .[]
-            | "- [`\(.short)`](https://github.com/\(.repo)/commit/\(.sha)) \(.msg) — [\(.repo)](https://github.com/\(.repo))"
+          gh api -X GET "search/commits?q=author:natekettles&sort=author-date&order=desc&per_page=10" --jq '
+            .items[]
+            | "- [`\(.sha[0:7])`](\(.html_url)) \(.commit.message | split("\n")[0]) — [\(.repository.full_name)](https://github.com/\(.repository.full_name))"
           ' > commits.md.tmp 2>/dev/null || true
 
           if [ ! -s commits.md.tmp ]; then
