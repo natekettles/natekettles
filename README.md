@@ -1,5 +1,5 @@
 <h1 align="center">Nathan Kettles</h1>
-<p align="center">Product Manager · coffee drinker · tech enthusiast · 🌍 Cape Town, South Africa</p>
+<p align="center">Product Manager · coffee drinker · tech enthusiast · 🌍 Cape Town, South Africa · <a href="https://linkedin.com/in/nathankettles">LinkedIn</a></p>
 
 ---
 
