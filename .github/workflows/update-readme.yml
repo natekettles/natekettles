@@ -5,14 +5,56 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    name: Update this repo's README with recent activity
+    name: Update this repo's README with recent activity and commits
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+
+      - name: Update recent commits section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api "users/natekettles/events/public?per_page=100" --paginate --jq '
+            [.[]
+              | select(.type=="PushEvent")
+              | . as $e
+              | .payload.commits[]
+              | select(.distinct)
+              | {
+                  sha: .sha,
+                  short: .sha[0:7],
+                  msg: (.message | split("\n")[0]),
+                  repo: $e.repo.name
+                }
+            ]
+            | unique_by(.sha)
+            | .[0:10]
+            | .[]
+            | "- [`\(.short)`](https://github.com/\(.repo)/commit/\(.sha)) \(.msg) — [\(.repo)](https://github.com/\(.repo))"
+          ' > commits.md.tmp 2>/dev/null || true
+
+          if [ ! -s commits.md.tmp ]; then
+            echo "_No recent public push events yet — this fills in after your next push._" > commits.md.tmp
+          fi
+
+          awk '
+            /<!--START_SECTION:commits-->/ {
+              print
+              while ((getline line < "commits.md.tmp") > 0) print line
+              skip=1
+              next
+            }
+            /<!--END_SECTION:commits-->/ { skip=0 }
+            !skip
+          ' README.md > README.md.new
+          mv README.md.new README.md
+          rm commits.md.tmp
+
+      - name: Update recent activity section
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
