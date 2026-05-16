@@ -1,12 +1,17 @@
-## Hi there 👋
+<h1 align="center">Nathan Kettles</h1>
+<p align="center">Product Manager · coffee drinker · tech enthusiast · 🌍 Cape Town, South Africa</p>
+
+---
+
+## 📊 Metrics
 
 ![Metrics](./github-metrics.svg)
 
-### Recommended star list
+## ⭐︎ Recommended star list
 
 ![Star list](./metrics.plugin.starlists.svg)
 
-### Recent activity
+## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/kunchenguid/lavish-axi/issues/37#issuecomment-4463676045) in [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi)
