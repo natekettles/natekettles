@@ -1,7 +1,6 @@
 - name: Metrics embed
   uses: lowlighter/metrics@v3.34
 
-
 name: Featured star list
 uses: lowlighter/metrics@latest
 with:
