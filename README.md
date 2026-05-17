@@ -6,11 +6,11 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/iFurySt/open-codex-computer-use/issues/16) in [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use)
-2. 🗣 Commented on [#37](https://github.com/kunchenguid/lavish-axi/issues/37#issuecomment-4463676045) in [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi)
-3. ❗ Opened issue [#37](https://github.com/kunchenguid/lavish-axi/issues/37) in [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi)
-4. 💪 Opened PR [#38283](https://github.com/is-a-dev/register/pull/38283) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#38282](https://github.com/is-a-dev/register/pull/38282) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#314](https://github.com/yichuan-w/LEANN/pull/314#issuecomment-4470369194) in [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
+2. 💪 Opened PR [#315](https://github.com/yichuan-w/LEANN/pull/315) in [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
+3. 💪 Opened PR [#314](https://github.com/yichuan-w/LEANN/pull/314) in [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
+4. ❗ Opened issue [#16](https://github.com/iFurySt/open-codex-computer-use/issues/16) in [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use)
+5. 🗣 Commented on [#37](https://github.com/kunchenguid/lavish-axi/issues/37#issuecomment-4463676045) in [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi)
 <!--END_SECTION:activity-->
 
 ---
