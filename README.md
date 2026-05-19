@@ -6,11 +6,11 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#679](https://github.com/mvanhorn/printing-press-library/pull/679#issuecomment-4482808327) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-2. 🗣 Commented on [#679](https://github.com/mvanhorn/printing-press-library/pull/679#issuecomment-4482307504) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-3. 🗣 Commented on [#679](https://github.com/mvanhorn/printing-press-library/pull/679#issuecomment-4482067695) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-4. 💪 Opened PR [#679](https://github.com/mvanhorn/printing-press-library/pull/679) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-5. 🗣 Commented on [#676](https://github.com/mvanhorn/printing-press-library/pull/676#issuecomment-4480479118) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+1. 🎉 Merged PR [#676](https://github.com/mvanhorn/printing-press-library/pull/676) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+2. 🎉 Merged PR [#679](https://github.com/mvanhorn/printing-press-library/pull/679) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+3. 🗣 Commented on [#679](https://github.com/mvanhorn/printing-press-library/pull/679#issuecomment-4492470719) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+4. 🗣 Commented on [#676](https://github.com/mvanhorn/printing-press-library/pull/676#issuecomment-4492465505) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+5. 🔒 Closed issue [#60524](https://github.com/anthropics/claude-code/issues/60524) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ---
@@ -18,16 +18,16 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
-- [`152d35a`](https://github.com/yichuan-w/LEANN/commit/152d35a3c0f4b12b6740b54e08ab6b757b595955) feat(browser_rag): expose url/domain/visit fields as metadata (#315) — [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
-- [`edf62d9`](https://github.com/natekettles/lavish-themes/commit/edf62d931e576b8f53421906868f2fdde1265ceb) Tighten .gitignore — add secrets, .npmrc, .claude, IDE, node_modules — [natekettles/lavish-themes](https://github.com/natekettles/lavish-themes)
-- [`65c79dc`](https://github.com/natekettles/lavish-publish-cf/commit/65c79dc55c370c67d97ec0c802937c30a8cc164e) Tighten .gitignore — add secrets, .npmrc, .claude, IDE, build artifacts — [natekettles/lavish-publish-cf](https://github.com/natekettles/lavish-publish-cf)
-- [`952e0f8`](https://github.com/natekettles/lavish-themes/commit/952e0f84579c95f3a452497ad300c41d451e736c) Publish to npm as @rubar/lavish-themes — [natekettles/lavish-themes](https://github.com/natekettles/lavish-themes)
-- [`d76d535`](https://github.com/natekettles/lavish-publish-cf/commit/d76d53592e9ddd0a03f8e876187f2fe4cc19d184) Publish to npm as @rubar/lavish-publish-cf — [natekettles/lavish-publish-cf](https://github.com/natekettles/lavish-publish-cf)
-- [`5dd207e`](https://github.com/natekettles/natekettles/commit/5dd207e76cd8135bb93c65256d65dba44c295ea0) Add explicit commit step for README changes — [natekettles/natekettles](https://github.com/natekettles/natekettles)
-- [`e9edc4e`](https://github.com/natekettles/natekettles/commit/e9edc4e8ce491057e96fd8027ccd424757cc418e) Debug: use METRICS_TOKEN PAT for search/commits and surface errors — [natekettles/natekettles](https://github.com/natekettles/natekettles)
-- [`72aaeca`](https://github.com/natekettles/natekettles/commit/72aaeca2f2b4331c56ba51ff00fcc75814bd46b0) Switch recent-commits source from public events to search/commits API — [natekettles/natekettles](https://github.com/natekettles/natekettles)
-- [`50e6e77`](https://github.com/natekettles/natekettles/commit/50e6e7789f0a86076c6145cdea186701b57001f1) Reorder README, trim metrics, add recent commits section — [natekettles/natekettles](https://github.com/natekettles/natekettles)
-- [`55e81a8`](https://github.com/natekettles/natekettles/commit/55e81a879b3d73d7f2da7a875911ac8ab2401a1b) Update README.md — [natekettles/natekettles](https://github.com/natekettles/natekettles)
+- [`51e58ef`](https://github.com/mvanhorn/printing-press-library/commit/51e58efb2baf06ea0293d9d5b723681763e5863a) feat(nylas): add nylas (#676) — [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+- [`5b9c404`](https://github.com/mvanhorn/printing-press-library/commit/5b9c40466a568d6f492034993058e49b50b14cef) feat(sendgrid): add sendgrid (#679) — [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+- [`27d643e`](https://github.com/natekettles/inbox-voice/commit/27d643ecc9c0fd002d194ec79e250a57352abe57) docs: sync CLAUDE.md and README with recent feature work — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`2379cc7`](https://github.com/natekettles/inbox-voice/commit/2379cc7c5cd3b7ebc12c5138af9f470acfce843c) feat(cost): unified accounting — track classifier spend alongside realtime — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`88fb086`](https://github.com/natekettles/inbox-voice/commit/88fb086cfa68d7d8e10d6d343aabedb08273314e) fix(server): pnpm dev now serves src/web, not stale dist/ — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`9350bc5`](https://github.com/natekettles/inbox-voice/commit/9350bc52c3923a57d68256d7d86bccd1e9e02510) feat: thread clustering in queue UI and voice tool — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`c26e214`](https://github.com/natekettles/inbox-voice/commit/c26e214e38f7fc16fbadbea468b9067cdc8fe02a) feat: session summary persistence across 15-min Realtime cap — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`8c8554b`](https://github.com/natekettles/inbox-voice/commit/8c8554b0f143ce700baf991a7071f67246c1b558) feat: skip-list refinement — auto-hide repeat-skipped items — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`fde7937`](https://github.com/natekettles/inbox-voice/commit/fde79379ffa47717a94b55fa9020ec108b093e2f) ci: weekday business-hours classify cron via GH Actions — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`dfeaa13`](https://github.com/natekettles/inbox-voice/commit/dfeaa1341fa09c7205d9e847ca7c9ab3bdaa5154) feat: /cost page with daily/MTD numbers and 30-day sparkline — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 <!--END_SECTION:commits-->
 
 ---
