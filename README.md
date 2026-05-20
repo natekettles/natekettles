@@ -6,11 +6,11 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#676](https://github.com/mvanhorn/printing-press-library/pull/676) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-2. 🎉 Merged PR [#679](https://github.com/mvanhorn/printing-press-library/pull/679) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-3. 🗣 Commented on [#679](https://github.com/mvanhorn/printing-press-library/pull/679#issuecomment-4492470719) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-4. 🗣 Commented on [#676](https://github.com/mvanhorn/printing-press-library/pull/676#issuecomment-4492465505) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-5. 🔒 Closed issue [#60524](https://github.com/anthropics/claude-code/issues/60524) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🎉 Merged PR [#7](https://github.com/natekettles/inbox-voice/pull/7) in [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+2. 💪 Opened PR [#7](https://github.com/natekettles/inbox-voice/pull/7) in [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+3. 🎉 Merged PR [#6](https://github.com/natekettles/inbox-voice/pull/6) in [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+4. 💪 Opened PR [#6](https://github.com/natekettles/inbox-voice/pull/6) in [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+5. 🎉 Merged PR [#2](https://github.com/natekettles/inbox-voice/pull/2) in [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 <!--END_SECTION:activity-->
 
 ---
@@ -18,16 +18,16 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
-- [`51e58ef`](https://github.com/mvanhorn/printing-press-library/commit/51e58efb2baf06ea0293d9d5b723681763e5863a) feat(nylas): add nylas (#676) — [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-- [`5b9c404`](https://github.com/mvanhorn/printing-press-library/commit/5b9c40466a568d6f492034993058e49b50b14cef) feat(sendgrid): add sendgrid (#679) — [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-- [`27d643e`](https://github.com/natekettles/inbox-voice/commit/27d643ecc9c0fd002d194ec79e250a57352abe57) docs: sync CLAUDE.md and README with recent feature work — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`2379cc7`](https://github.com/natekettles/inbox-voice/commit/2379cc7c5cd3b7ebc12c5138af9f470acfce843c) feat(cost): unified accounting — track classifier spend alongside realtime — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`88fb086`](https://github.com/natekettles/inbox-voice/commit/88fb086cfa68d7d8e10d6d343aabedb08273314e) fix(server): pnpm dev now serves src/web, not stale dist/ — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`9350bc5`](https://github.com/natekettles/inbox-voice/commit/9350bc52c3923a57d68256d7d86bccd1e9e02510) feat: thread clustering in queue UI and voice tool — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`c26e214`](https://github.com/natekettles/inbox-voice/commit/c26e214e38f7fc16fbadbea468b9067cdc8fe02a) feat: session summary persistence across 15-min Realtime cap — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`8c8554b`](https://github.com/natekettles/inbox-voice/commit/8c8554b0f143ce700baf991a7071f67246c1b558) feat: skip-list refinement — auto-hide repeat-skipped items — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`fde7937`](https://github.com/natekettles/inbox-voice/commit/fde79379ffa47717a94b55fa9020ec108b093e2f) ci: weekday business-hours classify cron via GH Actions — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`dfeaa13`](https://github.com/natekettles/inbox-voice/commit/dfeaa1341fa09c7205d9e847ca7c9ab3bdaa5154) feat: /cost page with daily/MTD numbers and 30-day sparkline — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`3a763a2`](https://github.com/natekettles/inbox-voice/commit/3a763a2b28554f0875f28ffc388086581e5fdf5e) chore: draft cost-kind placeholder + mobile back-button + ignore .qa-reports — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`a952b98`](https://github.com/natekettles/inbox-voice/commit/a952b98af20253e04dd3001e8eaa72c1333387c2) feat(app): add /curate route alias for the curation page — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`ace9214`](https://github.com/natekettles/inbox-voice/commit/ace92143e9a3dfcb8e81de76fbe893e6ffc71215) feat(settings): prompt-divergence badge + safer app_settings reads — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`c97b1b5`](https://github.com/natekettles/inbox-voice/commit/c97b1b552cc783eb2fa6bd2df9f0490838759359) perf(voice): bake queue into instructions, prewarm + item card — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`5ad8f05`](https://github.com/natekettles/inbox-voice/commit/5ad8f0554112bf15d00ed81fb6f32be03a401265) feat(voice): auto-greet on connect + opt-in startup-latency timing — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`2fd1bc3`](https://github.com/natekettles/inbox-voice/commit/2fd1bc3145470661e7a977a9b7dec23e81c4f8ee) style(cost): cream eyebrow + mono amount on slate cards — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`959ab0c`](https://github.com/natekettles/inbox-voice/commit/959ab0c73283929042fb55a4e4568c80586e6934) fix(self): correct default INBOX_VOICE_SELF_EMAIL to grant address — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`f269deb`](https://github.com/natekettles/inbox-voice/commit/f269deb61cd18dfc374093aac622177b07fd1e74) fix(settings): quiet the post-save button state — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`2b7df03`](https://github.com/natekettles/inbox-voice/commit/2b7df03a6474e3f8ea11cfef6a41902ddf519f27) fix(build): include settings.html in vite rollupOptions — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`7ca944f`](https://github.com/natekettles/inbox-voice/commit/7ca944faf75f64c7d4d911d4ff2c8ee94d41541b) fix(server): /settings 404 — narrow API mount to /settings/api — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 <!--END_SECTION:commits-->
 
 ---
