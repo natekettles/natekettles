@@ -18,6 +18,8 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
+- [`e581e0d`](https://github.com/natekettles/inbox-voice/commit/e581e0dd49c5776f2acb90bbc6b982e6b3137583) fix(tests): expose new nylas helpers on vi.mock — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`18e0b39`](https://github.com/natekettles/inbox-voice/commit/18e0b390c60a6f333ee42aed645174468718747b) fix(drafts): inline quoted history + Aptos paragraph wrap + manual ignore — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 - [`3a763a2`](https://github.com/natekettles/inbox-voice/commit/3a763a2b28554f0875f28ffc388086581e5fdf5e) chore: draft cost-kind placeholder + mobile back-button + ignore .qa-reports — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 - [`a952b98`](https://github.com/natekettles/inbox-voice/commit/a952b98af20253e04dd3001e8eaa72c1333387c2) feat(app): add /curate route alias for the curation page — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 - [`ace9214`](https://github.com/natekettles/inbox-voice/commit/ace92143e9a3dfcb8e81de76fbe893e6ffc71215) feat(settings): prompt-divergence badge + safer app_settings reads — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
@@ -26,8 +28,6 @@
 - [`2fd1bc3`](https://github.com/natekettles/inbox-voice/commit/2fd1bc3145470661e7a977a9b7dec23e81c4f8ee) style(cost): cream eyebrow + mono amount on slate cards — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 - [`959ab0c`](https://github.com/natekettles/inbox-voice/commit/959ab0c73283929042fb55a4e4568c80586e6934) fix(self): correct default INBOX_VOICE_SELF_EMAIL to grant address — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 - [`f269deb`](https://github.com/natekettles/inbox-voice/commit/f269deb61cd18dfc374093aac622177b07fd1e74) fix(settings): quiet the post-save button state — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`2b7df03`](https://github.com/natekettles/inbox-voice/commit/2b7df03a6474e3f8ea11cfef6a41902ddf519f27) fix(build): include settings.html in vite rollupOptions — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`7ca944f`](https://github.com/natekettles/inbox-voice/commit/7ca944faf75f64c7d4d911d4ff2c8ee94d41541b) fix(server): /settings 404 — narrow API mount to /settings/api — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 <!--END_SECTION:commits-->
 
 ---
