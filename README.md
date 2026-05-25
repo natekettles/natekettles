@@ -18,16 +18,16 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
-- [`827ff6e`](https://github.com/natekettles/inbox-voice/commit/827ff6e052d47d0209d73373b359339fff269231) chore(scrub): remove personal/work emails + unpublish ios-app ops docs — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`57a8b88`](https://github.com/natekettles/inbox-voice/commit/57a8b884cc1094c600a948c47858f3f23c287862) Revise README for clarity and feature updates (#15) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`742ba4c`](https://github.com/natekettles/inbox-voice/commit/742ba4c7bbc5ed0cc3388ffea53ddff0c4478a8f) ci(deploy): widen smoke-test window for cold-boot tunnel recovery (#14) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`db1fc47`](https://github.com/natekettles/inbox-voice/commit/db1fc4743b043ff7bda9196f241a0e6493276f4e) ui: settings init fix + brand mark in header lockup (#13) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`3bc09c0`](https://github.com/natekettles/inbox-voice/commit/3bc09c0064456ce31d138bba9bb319b5aa664166) fix(ios): shell polish — safe-area, app-icon pixel grid, native-debug overlay default-hidden (#12) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`58885ea`](https://github.com/natekettles/inbox-voice/commit/58885eafaa8dca7aa1e6ae687708f2fb60a7f6c3) fix(build): copy src/shared/*.js into dist so server boots in prod (#11) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`f46e8fc`](https://github.com/natekettles/inbox-voice/commit/f46e8fc40fdda1a28d731d4174c423d6c2da3e6f) feat(realtime): align voice path with Agents SDK — usage-based cost, history handoff, output guardrail, shared schemas (#10) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`860e6a0`](https://github.com/natekettles/inbox-voice/commit/860e6a03382b52dfe6d37f4a8e3aeafba8286180) fix(ios): mirror /settings/api under /api/v1 so the in-app Settings page loads (#9) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`dce5397`](https://github.com/natekettles/inbox-voice/commit/dce539703bc0a1257f2c09719641da4a25f85cf2) chore: PolyForm license + CLA, new app icon, paid white-glove form (#8) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`df5c378`](https://github.com/natekettles/inbox-voice/commit/df5c37815b4118d462354d2c8e1d248f770ad1ca) refactor(server): split CORS by surface; tighten /auth/* allowlist — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`c1198b9`](https://github.com/natekettles/openeyes/commit/c1198b96f58aaa843227b634d8fc855f88a26959) fix(p2): security hardening, schema precision, and code quality sweep — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`129896e`](https://github.com/natekettles/openeyes/commit/129896e171b16a8af2739adca3fb8048d8202859) fix(recost): add pricing_version drift as a third recost signal — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`9cb352d`](https://github.com/natekettles/openeyes/commit/9cb352d298bb6d2afff76075a5cbd37db840b09a) fix: correct momentum normalization and magic-link waitlist test — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`666ea8d`](https://github.com/natekettles/openeyes/commit/666ea8d3bff11bc83448c49be8cd2016f8f5c8e5) chore(docker): copy scripts/ into runner image for maintenance ops — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`6cbdee2`](https://github.com/natekettles/openeyes/commit/6cbdee2c0e052ae569919b1ace8fbd0fecd8ff99) fix(worker): enforcement slot+race bugs + leader election lease (#10) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`1700152`](https://github.com/natekettles/openeyes/commit/17001528842eeaba0905e9ad6f9ebe79ceb3e92c) fix(pricing): cost realtime models per modality + add recost CLI — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`142320a`](https://github.com/natekettles/openeyes/commit/142320a7a819298464480fbc7ded0ab3262e5a51) fix: P0/P1 code-quality, security, and worker-perf sweep (#11) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`560953d`](https://github.com/natekettles/openeyes/commit/560953d5ff33f962681c2cb52c9fa33af572436d) fix: three P0s — DR key rotation, disconnect-workspace, fail-loud kill-switch (#9) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`e9c2377`](https://github.com/natekettles/openeyes/commit/e9c2377bcc063adedb8f9b3eb3f2de69a257e682) security: harden magic-link logging, revoke-key authz, webhook idempotency (#6) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`0b23a7a`](https://github.com/natekettles/openeyes/commit/0b23a7adf73539ae32b0936f7a14eb399d54022d) test: add 282-test suite covering all critical surfaces (#7) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
 <!--END_SECTION:commits-->
 
 ---
