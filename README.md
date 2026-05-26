@@ -6,11 +6,11 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#61832](https://github.com/anthropics/claude-code/issues/61832) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. 🎉 Merged PR [#676](https://github.com/mvanhorn/printing-press-library/pull/676) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-3. 🎉 Merged PR [#679](https://github.com/mvanhorn/printing-press-library/pull/679) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-4. 🗣 Commented on [#679](https://github.com/mvanhorn/printing-press-library/pull/679#issuecomment-4492470719) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
-5. 🗣 Commented on [#676](https://github.com/mvanhorn/printing-press-library/pull/676#issuecomment-4492465505) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+1. ℹ️ Labeled issue [#271](https://github.com/FuJacob/cotabby/issues/271) in [FuJacob/cotabby](https://github.com/FuJacob/cotabby)
+2. ❗ Opened issue [#271](https://github.com/FuJacob/cotabby/issues/271) in [FuJacob/cotabby](https://github.com/FuJacob/cotabby)
+3. ❗ Opened issue [#61832](https://github.com/anthropics/claude-code/issues/61832) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+4. 🎉 Merged PR [#676](https://github.com/mvanhorn/printing-press-library/pull/676) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
+5. 🎉 Merged PR [#679](https://github.com/mvanhorn/printing-press-library/pull/679) in [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)
 <!--END_SECTION:activity-->
 
 ---
@@ -18,16 +18,16 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
-- [`c1198b9`](https://github.com/natekettles/openeyes/commit/c1198b96f58aaa843227b634d8fc855f88a26959) fix(p2): security hardening, schema precision, and code quality sweep — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`129896e`](https://github.com/natekettles/openeyes/commit/129896e171b16a8af2739adca3fb8048d8202859) fix(recost): add pricing_version drift as a third recost signal — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`9cb352d`](https://github.com/natekettles/openeyes/commit/9cb352d298bb6d2afff76075a5cbd37db840b09a) fix: correct momentum normalization and magic-link waitlist test — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`666ea8d`](https://github.com/natekettles/openeyes/commit/666ea8d3bff11bc83448c49be8cd2016f8f5c8e5) chore(docker): copy scripts/ into runner image for maintenance ops — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`6cbdee2`](https://github.com/natekettles/openeyes/commit/6cbdee2c0e052ae569919b1ace8fbd0fecd8ff99) fix(worker): enforcement slot+race bugs + leader election lease (#10) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`1700152`](https://github.com/natekettles/openeyes/commit/17001528842eeaba0905e9ad6f9ebe79ceb3e92c) fix(pricing): cost realtime models per modality + add recost CLI — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`142320a`](https://github.com/natekettles/openeyes/commit/142320a7a819298464480fbc7ded0ab3262e5a51) fix: P0/P1 code-quality, security, and worker-perf sweep (#11) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`560953d`](https://github.com/natekettles/openeyes/commit/560953d5ff33f962681c2cb52c9fa33af572436d) fix: three P0s — DR key rotation, disconnect-workspace, fail-loud kill-switch (#9) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`e9c2377`](https://github.com/natekettles/openeyes/commit/e9c2377bcc063adedb8f9b3eb3f2de69a257e682) security: harden magic-link logging, revoke-key authz, webhook idempotency (#6) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`0b23a7a`](https://github.com/natekettles/openeyes/commit/0b23a7adf73539ae32b0936f7a14eb399d54022d) test: add 282-test suite covering all critical surfaces (#7) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`7e5a2f6`](https://github.com/natekettles/inbox-voice/commit/7e5a2f6bb3a2d73ff44a231e065cc102beb6b96b) chore(docs): consolidate scattered docs into a single tree (#22) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`9a4bfae`](https://github.com/natekettles/openeyes/commit/9a4bfaee5e0322dd155b7bd730c63863975f2058) feat(worker): reverse-cleanup for projects deleted on the OpenAI side (#21) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`e3c5d94`](https://github.com/natekettles/inbox-voice/commit/e3c5d94a98d0e97a54fd77da13df8be71f43db49) chore: surface /deck in app nav + add plan-doc-on-main rule (#21) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`a1a2104`](https://github.com/natekettles/openeyes/commit/a1a2104e93dbcc8afb2522c99cb05142fd4e9119) fix(defaults): org-level defaults default to alert-only (#20) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`428d940`](https://github.com/natekettles/openeyes/commit/428d940dabc179ea813784ce6922e2365de0b193) fix(alerts,defaults): MoM→projected shorthand, opinionated per-project default modes (#19) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`86839db`](https://github.com/natekettles/inbox-voice/commit/86839dbe10bfbd725da5051d9f583db5732d580b) chore(ci): disable CodeQL — no value without GHAS on a private repo (#20) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`e263958`](https://github.com/natekettles/openeyes/commit/e2639581354d3620a1e3eeca0cac8dfe0a120b49) fix(ui): active-keys count, mom mislabel, favicon (#18) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`1b9ec44`](https://github.com/natekettles/inbox-voice/commit/1b9ec440bd1e4d34b161bb5bf57148df836539d3) feat(deck): voice co-pilot + classifier priority for procrastinated cards (Phases 4-5) (#19) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`8563b57`](https://github.com/natekettles/openeyes/commit/8563b5703d18ed26cd4d8929b9b5bab87acf790c) feat(ui): precision-adaptive org total + global $/R currency toggle (#17) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`fe3718b`](https://github.com/natekettles/openeyes/commit/fe3718b74e68420662dd0ee379121c939b064edf) fix(db): repair 10⁶× over-multiplied amount_usd from 0004 race (#16) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
 <!--END_SECTION:commits-->
 
 ---
