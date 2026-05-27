@@ -18,16 +18,16 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
-- [`7e5a2f6`](https://github.com/natekettles/inbox-voice/commit/7e5a2f6bb3a2d73ff44a231e065cc102beb6b96b) chore(docs): consolidate scattered docs into a single tree (#22) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`9a4bfae`](https://github.com/natekettles/openeyes/commit/9a4bfaee5e0322dd155b7bd730c63863975f2058) feat(worker): reverse-cleanup for projects deleted on the OpenAI side (#21) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`e3c5d94`](https://github.com/natekettles/inbox-voice/commit/e3c5d94a98d0e97a54fd77da13df8be71f43db49) chore: surface /deck in app nav + add plan-doc-on-main rule (#21) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`a1a2104`](https://github.com/natekettles/openeyes/commit/a1a2104e93dbcc8afb2522c99cb05142fd4e9119) fix(defaults): org-level defaults default to alert-only (#20) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`428d940`](https://github.com/natekettles/openeyes/commit/428d940dabc179ea813784ce6922e2365de0b193) fix(alerts,defaults): MoM→projected shorthand, opinionated per-project default modes (#19) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`86839db`](https://github.com/natekettles/inbox-voice/commit/86839dbe10bfbd725da5051d9f583db5732d580b) chore(ci): disable CodeQL — no value without GHAS on a private repo (#20) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`e263958`](https://github.com/natekettles/openeyes/commit/e2639581354d3620a1e3eeca0cac8dfe0a120b49) fix(ui): active-keys count, mom mislabel, favicon (#18) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`1b9ec44`](https://github.com/natekettles/inbox-voice/commit/1b9ec440bd1e4d34b161bb5bf57148df836539d3) feat(deck): voice co-pilot + classifier priority for procrastinated cards (Phases 4-5) (#19) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
-- [`8563b57`](https://github.com/natekettles/openeyes/commit/8563b5703d18ed26cd4d8929b9b5bab87acf790c) feat(ui): precision-adaptive org total + global $/R currency toggle (#17) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
-- [`fe3718b`](https://github.com/natekettles/openeyes/commit/fe3718b74e68420662dd0ee379121c939b064edf) fix(db): repair 10⁶× over-multiplied amount_usd from 0004 race (#16) — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`e798471`](https://github.com/natekettles/inbox-voice/commit/e79847137c0134f1f445030ba4dd84e50b62c406) fix(ota): strip sha256: prefix from manifest checksum — the real stuck-bundle bug (#34) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`ad58f60`](https://github.com/natekettles/inbox-voice/commit/ad58f608064a459391ee15cfd1c87320e8a4441a) fix(ota): activate already-installed bundle on bootstrap + localStorage queue recovery (#33) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`1c0e991`](https://github.com/natekettles/inbox-voice/commit/1c0e99100a7e9c8ae7296a69b28f340d0a764b54) feat: scheduler + classifier perf + full-email render + deck draft (#32) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`87c9a6f`](https://github.com/natekettles/TextBoost/commit/87c9a6fc52fba8b70a92b3b6031bfc546765cf02) ci: disable Swift workflow — [natekettles/TextBoost](https://github.com/natekettles/TextBoost)
+- [`6a56811`](https://github.com/natekettles/TextBoost/commit/6a568118bb882cac5c1f9038a5b3cb554d162e52) ci: disable CodeQL workflow — [natekettles/TextBoost](https://github.com/natekettles/TextBoost)
+- [`93384df`](https://github.com/natekettles/inbox-voice/commit/93384df62fcb07eaaa4626229070ea3c891f28b2) fix(ota): swap queued bundles on foreground + early notifyAppReady (#31) [skip ci] — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`78bbb5f`](https://github.com/natekettles/inbox-voice/commit/78bbb5fffd4cc5eafa6802ab41ac73738895192b) fix(ios): dual-mount /draft and /drafts under /api/v1 (#29) — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`936c6c6`](https://github.com/natekettles/inbox-voice/commit/936c6c682797b5dd8c4ed13c5dee47423b0f3297) diag(ota): instrument manifest/zip routes + bootstrap lifecycle (#30) [skip ci] — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
+- [`e0d0727`](https://github.com/natekettles/openeyes/commit/e0d07270f7b389a10cc5ef37b02b45fc1f521a17) docs(runbook): note May 2026 GitHub Actions freeze + manual deploy flow — [natekettles/openeyes](https://github.com/natekettles/openeyes)
+- [`8c73ea6`](https://github.com/natekettles/inbox-voice/commit/8c73ea6c379adddb0f922bdfb3586389388a4463) chore(ios): bump TestFlight build to 14 — [natekettles/inbox-voice](https://github.com/natekettles/inbox-voice)
 <!--END_SECTION:commits-->
 
 ---
