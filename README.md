@@ -18,6 +18,8 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
+- [`05160d4`](https://github.com/natekettles/parallel-research-ios/commit/05160d465f29598e78b677ccf8e1a0d4e7751fac) chore: deploy & push bundle hygiene — keep secrets and stray files out of the Fly build context (#3) — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
+- [`f5434fe`](https://github.com/natekettles/parallel-research-ios/commit/f5434fe0bccf594d3f92890486771619dc148262) feat: Stream Parallel progress events end-to-end into run detail (#2) — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
 - [`0783c49`](https://github.com/natekettles/parallel-research-ios/commit/0783c49ef233229b7e4077f7f6e94c5eee94257d) Fix citations: flatten Parallel field-basis nested citations — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
 - [`f28adc0`](https://github.com/natekettles/parallel-research-ios/commit/f28adc0988a7e98521a81895c74deec2e519e07e) Fix HTML preview safe-area, push status badge, and add run streaming — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
 - [`1da7db1`](https://github.com/natekettles/parallel-research-ios/commit/1da7db16e3c51d982ad0115d81138324bab48ee1) Add archive + file/HTML export; fix non-JSON API crash — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
@@ -26,8 +28,6 @@
 - [`3860040`](https://github.com/natekettles/parallel-research-ios/commit/386004062fce879b9b733b862e3bdab700c74650) Document Expo OTA release workflow — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
 - [`11a24d2`](https://github.com/natekettles/parallel-research-ios/commit/11a24d2237fc11bd8cc135c2f267423b85120657) Fix EAS Update scripts — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
 - [`15da65c`](https://github.com/natekettles/parallel-research-ios/commit/15da65cbcb793b65b7a17b4ea55b01f708603aa2) Configure EAS Update for mobile app — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
-- [`acce09b`](https://github.com/natekettles/parallel-research-ios/commit/acce09b430b0c7aae7df66fbd14a705e7f2b30f5) Align Fly production config — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
-- [`0d7323a`](https://github.com/natekettles/parallel-research-ios/commit/0d7323a177969ded26e433b00f15bc86b834d6be) Polish mobile notebook verification flow — [natekettles/parallel-research-ios](https://github.com/natekettles/parallel-research-ios)
 <!--END_SECTION:commits-->
 
 ---
