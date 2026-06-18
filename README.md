@@ -6,11 +6,11 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Matted for Mac 1.2.1](https://github.com/natekettles/matted-releases/releases/tag/mac-v1.2.1) in [natekettles/matted-releases](https://github.com/natekettles/matted-releases)
-2. 🚀 Published release [Matted for Mac 1.2.0](https://github.com/natekettles/matted-releases/releases/tag/mac-v1.2.0) in [natekettles/matted-releases](https://github.com/natekettles/matted-releases)
-3. 🗣 Commented on [#64939](https://github.com/anthropics/claude-code/issues/64939#issuecomment-4608853590) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-4. ❗ Opened issue [#64939](https://github.com/anthropics/claude-code/issues/64939) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-5. ℹ️ Labeled issue [#271](https://github.com/FuJacob/cotabby/issues/271) in [FuJacob/cotabby](https://github.com/FuJacob/cotabby)
+1. 💪 Opened PR [#3](https://github.com/per-simmons/voice-os/pull/3) in [per-simmons/voice-os](https://github.com/per-simmons/voice-os)
+2. 🚀 Published release [Matted for Mac 1.2.1](https://github.com/natekettles/matted-releases/releases/tag/mac-v1.2.1) in [natekettles/matted-releases](https://github.com/natekettles/matted-releases)
+3. 🚀 Published release [Matted for Mac 1.2.0](https://github.com/natekettles/matted-releases/releases/tag/mac-v1.2.0) in [natekettles/matted-releases](https://github.com/natekettles/matted-releases)
+4. 🗣 Commented on [#64939](https://github.com/anthropics/claude-code/issues/64939#issuecomment-4608853590) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+5. ❗ Opened issue [#64939](https://github.com/anthropics/claude-code/issues/64939) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ---
