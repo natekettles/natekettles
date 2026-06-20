@@ -18,16 +18,16 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
-- [`d32a4df`](https://github.com/natekettles/codex-1/commit/d32a4dfe00d233fe52146048e3838ccc6b2db4a8) Merge pull request #2 from natekettles/codex/document-scripts-and-skills-in-repo — [natekettles/codex-1](https://github.com/natekettles/codex-1)
-- [`211d380`](https://github.com/natekettles/codex-1/commit/211d38029140a6bcf01d180c698af0f27e170165) Add agent scripts guide — [natekettles/codex-1](https://github.com/natekettles/codex-1)
-- [`e01211d`](https://github.com/natekettles/codex-1/commit/e01211de2821c7cd14284ba49cb4997d577e7a06) Initialize repository — [natekettles/codex-1](https://github.com/natekettles/codex-1)
-- [`ac3a7d1`](https://github.com/natekettles/matted-releases/commit/ac3a7d1d0d60851bc6bdd145335834f134326894) Add README — [natekettles/matted-releases](https://github.com/natekettles/matted-releases)
-- [`9224916`](https://github.com/natekettles/working-with-bette/commit/9224916732d996149a0ebec243d7431a3019bc28) Add Lean Analytics starter kit for PropertyEngine + BetterID — [natekettles/working-with-bette](https://github.com/natekettles/working-with-bette)
-- [`8fa22fa`](https://github.com/natekettles/working-with-bette/commit/8fa22faa1dab1b1bcbe431713736d77ec2dbbbaa) local: 1 file(s) updated — [natekettles/working-with-bette](https://github.com/natekettles/working-with-bette)
-- [`abf3a80`](https://github.com/natekettles/working-with-bette/commit/abf3a80e867b148b91f5470823bcaa261b314f66) local: 1 file(s) updated — [natekettles/working-with-bette](https://github.com/natekettles/working-with-bette)
-- [`36bbe66`](https://github.com/natekettles/working-with-bette/commit/36bbe663e746778b219354fecea53fca37aad51a) local: 1 file(s) updated — [natekettles/working-with-bette](https://github.com/natekettles/working-with-bette)
-- [`0d1140e`](https://github.com/natekettles/working-with-bette/commit/0d1140ecaec7dea8fe96ff61604b6b8d79040ede) local: 1 file(s) updated — [natekettles/working-with-bette](https://github.com/natekettles/working-with-bette)
-- [`977322f`](https://github.com/natekettles/working-with-bette/commit/977322f2201a342d15752b6c7bc90cc9656bbbda) local: 1 file(s) updated — [natekettles/working-with-bette](https://github.com/natekettles/working-with-bette)
+- [`95995b7`](https://github.com/natekettles/rustdesk-lan/commit/95995b7c413c0d5c060cb7f4df24291cf8a588fd) Claude mode: keep Phone Layout crop stable across device rotation — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`890d25c`](https://github.com/natekettles/rustdesk-lan/commit/890d25cc37b2b8dd3ac8d3ab09949a0dca315c24) iOS: bump to 1.4.8+70 for TestFlight (Phone Layout resolution-independent crop) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`30ecfef`](https://github.com/natekettles/rustdesk-lan/commit/30ecfefcabdbc09c325ed9d6c25084178a75ac8e) Claude mode: make Phone Layout crop resolution-independent — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`2d4bc45`](https://github.com/natekettles/rustdesk-lan/commit/2d4bc45d167ab405cbf7942eaf521c17bd29b96e) Claude mode: client-side "Phone Layout" Claude-only framed view (WIP) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`15fce19`](https://github.com/natekettles/rustdesk-lan/commit/15fce19645885f4348fcb7c17563a84c41cf9e3e) Claude mode: replace "Open Folder" with "New Folder Session" tile — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`4cbb8aa`](https://github.com/natekettles/rustdesk-lan/commit/4cbb8aa1b76c4437250713de6df42d61fce70a11) iOS: bump to 1.4.8+68 for TestFlight (Claude mode v2) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`c22ecb1`](https://github.com/natekettles/rustdesk-lan/commit/c22ecb12e37dce00c13a1cf9530dd5000425fe4e) Claude mode: fix Open/Focus, add 7 tiles, double-tap confirm — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`eb443a6`](https://github.com/natekettles/rustdesk-lan/commit/eb443a6d258812437ccfa6f4402908177ce520ff) Bump iOS build number to 1.4.8+67 for TestFlight (Claude mode) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`b4cec55`](https://github.com/natekettles/rustdesk-lan/commit/b4cec55c6be7de88762c93a908c28bfedeeb6423) Add Claude mode to iOS LAN remote: shortcut pad for driving Claude Desktop — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`46314a4`](https://github.com/natekettles/rustdesk-lan/commit/46314a48cb8571dc75b9bcc417052fa69ca00e94) RustDesk LAN — personal standalone fork (base: upstream v1.4.8, 9ded8d6) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
 <!--END_SECTION:commits-->
 
 ---
