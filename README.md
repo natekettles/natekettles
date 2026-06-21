@@ -18,6 +18,8 @@
 ## 💻 Recent commits
 
 <!--START_SECTION:commits-->
+- [`0153eb1`](https://github.com/natekettles/rustdesk-lan/commit/0153eb145e6a31c4810b9bf87352499754823e8b) iOS: dev-sign Debug config for direct on-device builds — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
+- [`de31c83`](https://github.com/natekettles/rustdesk-lan/commit/de31c8317ae73c076358591cdf04ff0c79cc773c) Claude mode: compact single-row landscape pad, hide blue bar in landscape — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
 - [`95995b7`](https://github.com/natekettles/rustdesk-lan/commit/95995b7c413c0d5c060cb7f4df24291cf8a588fd) Claude mode: keep Phone Layout crop stable across device rotation — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
 - [`890d25c`](https://github.com/natekettles/rustdesk-lan/commit/890d25cc37b2b8dd3ac8d3ab09949a0dca315c24) iOS: bump to 1.4.8+70 for TestFlight (Phone Layout resolution-independent crop) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
 - [`30ecfef`](https://github.com/natekettles/rustdesk-lan/commit/30ecfefcabdbc09c325ed9d6c25084178a75ac8e) Claude mode: make Phone Layout crop resolution-independent — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
@@ -26,8 +28,6 @@
 - [`4cbb8aa`](https://github.com/natekettles/rustdesk-lan/commit/4cbb8aa1b76c4437250713de6df42d61fce70a11) iOS: bump to 1.4.8+68 for TestFlight (Claude mode v2) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
 - [`c22ecb1`](https://github.com/natekettles/rustdesk-lan/commit/c22ecb12e37dce00c13a1cf9530dd5000425fe4e) Claude mode: fix Open/Focus, add 7 tiles, double-tap confirm — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
 - [`eb443a6`](https://github.com/natekettles/rustdesk-lan/commit/eb443a6d258812437ccfa6f4402908177ce520ff) Bump iOS build number to 1.4.8+67 for TestFlight (Claude mode) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
-- [`b4cec55`](https://github.com/natekettles/rustdesk-lan/commit/b4cec55c6be7de88762c93a908c28bfedeeb6423) Add Claude mode to iOS LAN remote: shortcut pad for driving Claude Desktop — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
-- [`46314a4`](https://github.com/natekettles/rustdesk-lan/commit/46314a48cb8571dc75b9bcc417052fa69ca00e94) RustDesk LAN — personal standalone fork (base: upstream v1.4.8, 9ded8d6) — [natekettles/rustdesk-lan](https://github.com/natekettles/rustdesk-lan)
 <!--END_SECTION:commits-->
 
 ---
